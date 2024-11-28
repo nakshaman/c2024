@@ -1,0 +1,5 @@
+Process id  Arrival Waiting  Burst   Completion time(At + Tat)	Tat(Wt+Bt+or CT-At)
+P3        	2       0      6         8                          6                           
+P2        	4       4      8         16                         12
+P1        	5       11     9         25                         20
+P4        	5       20     7         32                         27
